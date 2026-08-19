@@ -1,0 +1,14 @@
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\bin\Debug\net10.0-windows\PjtVendedores.exe
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\bin\Debug\net10.0-windows\PjtVendedores.deps.json
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\bin\Debug\net10.0-windows\PjtVendedores.runtimeconfig.json
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\bin\Debug\net10.0-windows\PjtVendedores.dll
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\bin\Debug\net10.0-windows\PjtVendedores.pdb
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\PjtVendedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\PjtVendedores.AssemblyInfoInputs.cache
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\PjtVendedores.AssemblyInfo.cs
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\PjtVendedores.csproj.CoreCompileInputs.cache
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\PjtVendedores.dll
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\refint\PjtVendedores.dll
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\PjtVendedores.pdb
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\PjtVendedores.genruntimeconfig.cache
+C:\Users\q0803799\Desktop\DEV\PjtVendedores\PjtVendedores\obj\Debug\net10.0-windows\ref\PjtVendedores.dll
