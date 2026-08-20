@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\PjtVendedores\\PjtVendedores.csproj": {}
+    "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\pjtvendedores\\PjtVendedores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\PjtVendedores\\PjtVendedores.csproj": {
+    "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\pjtvendedores\\PjtVendedores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\PjtVendedores\\PjtVendedores.csproj",
+        "projectUniqueName": "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\pjtvendedores\\PjtVendedores.csproj",
         "projectName": "PjtVendedores",
-        "projectPath": "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\PjtVendedores\\PjtVendedores.csproj",
+        "projectPath": "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\pjtvendedores\\PjtVendedores.csproj",
         "packagesPath": "C:\\Users\\q0803799\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\PjtVendedores\\obj\\",
+        "outputPath": "C:\\Users\\q0803799\\Desktop\\DEV\\PjtVendedores\\pjtvendedores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\q0803799\\AppData\\Roaming\\NuGet\\NuGet.Config"
