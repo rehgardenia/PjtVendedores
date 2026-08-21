@@ -1,4 +1,4 @@
-namespace PjtVendedores.Models;
+namespace PjtVendedores.Model;
 
 public class Vendedor
 {
@@ -14,6 +14,10 @@ public class Vendedor
         this.percComissao = percComissao;
 
         asVendas = new Venda[31];
+    }
+
+    public Vendedor(int id) : this(id, string.Empty, 0)
+    {
     }
 
     public int Id
@@ -62,6 +66,21 @@ public class Vendedor
     public double valorComissao()
     {
         return valorVendas() * percComissao / 100;
+    }
+
+    public double valorMedioVendasDiarias()
+    {
+        int diasComVenda = 0;
+
+        for (int i = 0; i < asVendas.Length; i++)
+        {
+            if (asVendas[i] != null)
+            {
+                diasComVenda++;
+            }
+        }
+
+        return diasComVenda == 0 ? 0 : valorVendas() / diasComVenda;
     }
 
     public bool possuiVenda()

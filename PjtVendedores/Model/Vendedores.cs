@@ -1,4 +1,4 @@
-namespace PjtVendedores.Models;
+namespace PjtVendedores.Model;
 
 public class Vendedores
 {
@@ -6,9 +6,9 @@ public class Vendedores
     private int max;
     private int qtde;
 
-    public Vendedores(int max)
+    public Vendedores()
     {
-        this.max = max;
+        this.max = 10;
         this.qtde = 0;
 
         osVendedores = new Vendedor[max];
@@ -17,6 +17,11 @@ public class Vendedores
     public int Qtde
     {
         get { return qtde; }
+    }
+
+    public bool EstaCheio
+    {
+        get { return qtde >= max; }
     }
 
     public Vendedor[] OsVendedores

@@ -1,4 +1,4 @@
-namespace PjtVendedores.Models;
+namespace PjtVendedores.Model;
 
 public class Venda
 {

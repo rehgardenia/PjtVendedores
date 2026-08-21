@@ -1,16 +1,15 @@
-namespace PjtVendedores;
+﻿using PjtVendedores.Controller;
+using PjtVendedores.Model;
+using PjtVendedores.View;
 
-static class Program
+public static class Program
 {
-    /// <summary>
-    ///  The main entry point for the application.
-    /// </summary>
-    [STAThread]
-    static void Main()
+    public static void Main(string[] args)
     {
-        // To customize application configuration such as set high DPI settings or default font,
-        // see https://aka.ms/applicationconfiguration.
-        ApplicationConfiguration.Initialize();
-        Application.Run(new Form1());
-    }    
+        Vendedores vendedores = new Vendedores();
+        VendedorView view = new VendedorView();
+        VendedorController controller = new VendedorController(vendedores, view);
+
+        controller.Iniciar();
+    }
 }
